@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" modified="2024-08-30T22:58:50.383Z" version="24.6.2" etag="x7B8LSyavS2hbNej3CLf" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" modified="2024-08-30T23:39:13.892Z" version="24.6.2" etag="K_KsHdbBxmeQp91hxzw7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2569" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1858" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -138,19 +138,19 @@
         <mxCell id="5SOHKnQhumeRB5jlaein-1" value="Barcos" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="440" width="240" height="468" as="geometry" />
         </mxCell>
-        <mxCell id="5SOHKnQhumeRB5jlaein-3" value="CodBarco (PK)" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="5SOHKnQhumeRB5jlaein-1" vertex="1">
+        <mxCell id="5SOHKnQhumeRB5jlaein-3" value="CodBarco" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="5SOHKnQhumeRB5jlaein-1" vertex="1">
           <mxGeometry y="26" width="240" height="34" as="geometry" />
         </mxCell>
         <mxCell id="GCW-zSLHgq53uU3LiZR8-16" value="NombreBarco" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="5SOHKnQhumeRB5jlaein-1" vertex="1">
           <mxGeometry y="60" width="240" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="DsrbRzc5nkTLLH1VOh_0-27" value="CodEmpresa (FK)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="5SOHKnQhumeRB5jlaein-1">
+        <mxCell id="DsrbRzc5nkTLLH1VOh_0-27" value="CodEmpresa" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="5SOHKnQhumeRB5jlaein-1">
           <mxGeometry y="94" width="240" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="GCW-zSLHgq53uU3LiZR8-17" value="CodPais (FK)&lt;u&gt;&lt;br&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="5SOHKnQhumeRB5jlaein-1" vertex="1">
+        <mxCell id="GCW-zSLHgq53uU3LiZR8-17" value="CodPais&lt;u&gt;&lt;br&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="5SOHKnQhumeRB5jlaein-1" vertex="1">
           <mxGeometry y="128" width="240" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="GCW-zSLHgq53uU3LiZR8-5" value="CodPuerto (FK)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="5SOHKnQhumeRB5jlaein-1" vertex="1">
+        <mxCell id="GCW-zSLHgq53uU3LiZR8-5" value="CodPuerto" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="5SOHKnQhumeRB5jlaein-1" vertex="1">
           <mxGeometry y="162" width="240" height="34" as="geometry" />
         </mxCell>
         <mxCell id="GCW-zSLHgq53uU3LiZR8-7" value="Nº de Embarcadero" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="5SOHKnQhumeRB5jlaein-1" vertex="1">
@@ -183,10 +183,10 @@
         <mxCell id="5SOHKnQhumeRB5jlaein-21" value="Tripulantes" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="240" y="440" width="240" height="206" as="geometry" />
         </mxCell>
-        <mxCell id="5SOHKnQhumeRB5jlaein-31" value="Legajo (PK)" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=left;" parent="5SOHKnQhumeRB5jlaein-21" vertex="1">
+        <mxCell id="5SOHKnQhumeRB5jlaein-31" value="Legajo" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=left;" parent="5SOHKnQhumeRB5jlaein-21" vertex="1">
           <mxGeometry y="26" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5SOHKnQhumeRB5jlaein-30" value="CodBarco (FK)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="5SOHKnQhumeRB5jlaein-21" vertex="1">
+        <mxCell id="5SOHKnQhumeRB5jlaein-30" value="CodBarco" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="5SOHKnQhumeRB5jlaein-21" vertex="1">
           <mxGeometry y="56" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5SOHKnQhumeRB5jlaein-33" value="NombreTripulante" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="5SOHKnQhumeRB5jlaein-21" vertex="1">
@@ -210,7 +210,7 @@
         <mxCell id="DsrbRzc5nkTLLH1VOh_0-1" value="EmpresasNavieras" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;swimlaneLine=1;" vertex="1" parent="1">
           <mxGeometry x="-320" y="440" width="240" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="DsrbRzc5nkTLLH1VOh_0-2" value="CodEmpresa (PK)" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="DsrbRzc5nkTLLH1VOh_0-1">
+        <mxCell id="DsrbRzc5nkTLLH1VOh_0-2" value="CodEmpresa" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="DsrbRzc5nkTLLH1VOh_0-1">
           <mxGeometry y="26" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DsrbRzc5nkTLLH1VOh_0-4" value="NombreEmpresa&lt;u&gt;&lt;br&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="DsrbRzc5nkTLLH1VOh_0-1">
@@ -222,7 +222,7 @@
         <mxCell id="DsrbRzc5nkTLLH1VOh_0-19" value="Puertos" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;swimlaneLine=1;" vertex="1" parent="1">
           <mxGeometry x="-320" y="620" width="240" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="DsrbRzc5nkTLLH1VOh_0-20" value="CodPuerto (PK)" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="DsrbRzc5nkTLLH1VOh_0-19">
+        <mxCell id="DsrbRzc5nkTLLH1VOh_0-20" value="CodPuerto" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="DsrbRzc5nkTLLH1VOh_0-19">
           <mxGeometry y="26" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DsrbRzc5nkTLLH1VOh_0-21" value="NombrePuerta&lt;u&gt;&lt;br&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="DsrbRzc5nkTLLH1VOh_0-19">
@@ -234,7 +234,7 @@
         <mxCell id="DsrbRzc5nkTLLH1VOh_0-23" value="Paises" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;swimlaneLine=1;" vertex="1" parent="1">
           <mxGeometry x="-320" y="800" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="DsrbRzc5nkTLLH1VOh_0-24" value="CodPais (PK)" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="DsrbRzc5nkTLLH1VOh_0-23">
+        <mxCell id="DsrbRzc5nkTLLH1VOh_0-24" value="CodPais" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="DsrbRzc5nkTLLH1VOh_0-23">
           <mxGeometry y="26" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DsrbRzc5nkTLLH1VOh_0-25" value="NombrePais&lt;u&gt;&lt;br&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="DsrbRzc5nkTLLH1VOh_0-23">
