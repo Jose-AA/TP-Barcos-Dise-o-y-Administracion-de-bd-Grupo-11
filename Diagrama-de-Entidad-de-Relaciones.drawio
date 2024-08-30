@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" modified="2024-08-30T22:57:37.033Z" version="24.6.2" etag="f1wby8FcnQMkBa_OcJeg" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" modified="2024-08-30T22:58:50.383Z" version="24.6.2" etag="x7B8LSyavS2hbNej3CLf" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1528" dy="337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2569" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,7 +178,7 @@
           <mxGeometry y="434" width="240" height="34" as="geometry" />
         </mxCell>
         <mxCell id="5SOHKnQhumeRB5jlaein-5" value="PRIMERA FORMA NORMAL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="110" y="360" width="240" height="30" as="geometry" />
+          <mxGeometry x="-40" y="360" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5SOHKnQhumeRB5jlaein-21" value="Tripulantes" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="240" y="440" width="240" height="206" as="geometry" />
@@ -202,10 +202,10 @@
           <mxGeometry y="176" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GCW-zSLHgq53uU3LiZR8-19" value="&#x9;Cursos de especialización realizados " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="520" y="440" width="260" height="56" as="geometry" />
+          <mxGeometry x="240" y="688" width="240" height="56" as="geometry" />
         </mxCell>
         <mxCell id="GCW-zSLHgq53uU3LiZR8-20" value="&lt;u&gt;Tripulacion&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="GCW-zSLHgq53uU3LiZR8-19" vertex="1">
-          <mxGeometry y="26" width="260" height="30" as="geometry" />
+          <mxGeometry y="26" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DsrbRzc5nkTLLH1VOh_0-1" value="EmpresasNavieras" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;swimlaneLine=1;" vertex="1" parent="1">
           <mxGeometry x="-320" y="440" width="240" height="124" as="geometry" />
