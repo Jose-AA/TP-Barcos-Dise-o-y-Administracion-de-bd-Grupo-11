@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" modified="2024-09-01T16:08:55.058Z" version="24.4.10" etag="d4WPVGiuiuoYDjtnFHI5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2023" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2524" dy="1888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -138,7 +138,7 @@
         <mxCell id="5SOHKnQhumeRB5jlaein-1" value="Barcos" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="420" width="240" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-34" value="&lt;u&gt;Cod. Empresa naviera&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="5SOHKnQhumeRB5jlaein-1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-34" value="&lt;u&gt;Cod. Empresa naviera&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="5SOHKnQhumeRB5jlaein-1" vertex="1">
           <mxGeometry y="26" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DsrbRzc5nkTLLH1VOh_0-27" value="&lt;div&gt;&lt;u&gt;Cod. Barco&amp;nbsp;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="5SOHKnQhumeRB5jlaein-1" vertex="1">
@@ -159,7 +159,7 @@
         <mxCell id="GCW-zSLHgq53uU3LiZR8-12" value="Cod. Tipo de embarcación&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="5SOHKnQhumeRB5jlaein-1" vertex="1">
           <mxGeometry y="226" width="240" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-35" value="Nº de Embarcadero&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="5SOHKnQhumeRB5jlaein-1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-35" value="Nº de Embarcadero&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="5SOHKnQhumeRB5jlaein-1" vertex="1">
           <mxGeometry y="260" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5SOHKnQhumeRB5jlaein-5" value="SEGUNDA FORMA NORMAL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
@@ -168,10 +168,10 @@
         <mxCell id="5SOHKnQhumeRB5jlaein-21" value="Tripulantes" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="240" y="420" width="240" height="236" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-39" value="&lt;u&gt;Cod. Empresa naviera&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="5SOHKnQhumeRB5jlaein-21">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-39" value="&lt;u&gt;Cod. Empresa naviera&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="5SOHKnQhumeRB5jlaein-21" vertex="1">
           <mxGeometry y="26" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-40" value="&lt;u&gt;Cod. Barco&amp;nbsp;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="5SOHKnQhumeRB5jlaein-21">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-40" value="&lt;u&gt;Cod. Barco&amp;nbsp;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="5SOHKnQhumeRB5jlaein-21" vertex="1">
           <mxGeometry y="56" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5SOHKnQhumeRB5jlaein-30" value="&lt;u&gt;Nº de legajo de tripulante&lt;br/&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="5SOHKnQhumeRB5jlaein-21" vertex="1">
@@ -201,7 +201,7 @@
         <mxCell id="DsrbRzc5nkTLLH1VOh_0-1" value="Empresas Navieras" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="420" width="240" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-36" value="&lt;u&gt;Cod. Empresa naviera&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="DsrbRzc5nkTLLH1VOh_0-1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-36" value="&lt;u&gt;Cod. Empresa naviera&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="DsrbRzc5nkTLLH1VOh_0-1" vertex="1">
           <mxGeometry y="26" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DsrbRzc5nkTLLH1VOh_0-4" value="Nombre de la empresa naviera&lt;br/&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="DsrbRzc5nkTLLH1VOh_0-1" vertex="1">
@@ -213,7 +213,7 @@
         <mxCell id="DsrbRzc5nkTLLH1VOh_0-19" value="Puertos" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="580" width="240" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-37" value="&lt;u&gt;Cod. Puerto&lt;br/&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="DsrbRzc5nkTLLH1VOh_0-19">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-37" value="&lt;u&gt;Cod. Puerto&lt;br/&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="DsrbRzc5nkTLLH1VOh_0-19" vertex="1">
           <mxGeometry y="26" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DsrbRzc5nkTLLH1VOh_0-22" value="&lt;u&gt;Cod. País&lt;br/&gt;&lt;br&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="DsrbRzc5nkTLLH1VOh_0-19" vertex="1">
@@ -225,7 +225,7 @@
         <mxCell id="DsrbRzc5nkTLLH1VOh_0-23" value="Paises" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="766" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-38" value="&lt;u&gt;Cod. País&lt;br&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="DsrbRzc5nkTLLH1VOh_0-23">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-38" value="&lt;u&gt;Cod. País&lt;br&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="DsrbRzc5nkTLLH1VOh_0-23" vertex="1">
           <mxGeometry y="26" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DsrbRzc5nkTLLH1VOh_0-25" value="Nombre del País&lt;br/&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="DsrbRzc5nkTLLH1VOh_0-23" vertex="1">
@@ -234,13 +234,13 @@
         <mxCell id="AlDmq4_nDiNZgkX2nY4D-1" value="Capitan" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="770" width="240" height="218" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-44" value="&lt;u&gt;Cod. Empresa naviera&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="AlDmq4_nDiNZgkX2nY4D-1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-44" value="&lt;u&gt;Cod. Empresa naviera&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="AlDmq4_nDiNZgkX2nY4D-1" vertex="1">
           <mxGeometry y="26" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-43" value="&lt;u&gt;Cod. Barco&amp;nbsp;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="AlDmq4_nDiNZgkX2nY4D-1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-43" value="&lt;u&gt;Cod. Barco&amp;nbsp;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="AlDmq4_nDiNZgkX2nY4D-1" vertex="1">
           <mxGeometry y="56" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-42" value="&lt;u&gt;Matrícula del Capitán&lt;br/&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="AlDmq4_nDiNZgkX2nY4D-1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-42" value="&lt;u&gt;Matrícula del Capitán&lt;br/&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="AlDmq4_nDiNZgkX2nY4D-1" vertex="1">
           <mxGeometry y="86" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AlDmq4_nDiNZgkX2nY4D-3" value="Nombre del Capitán&lt;br/&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="AlDmq4_nDiNZgkX2nY4D-1" vertex="1">
@@ -255,7 +255,7 @@
         <mxCell id="AlDmq4_nDiNZgkX2nY4D-7" value="Tipo Embarcacion" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="-30" y="766" width="240" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-41" value="&lt;u&gt;Cod. Tipo de embarcación&lt;br/&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="AlDmq4_nDiNZgkX2nY4D-7">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-41" value="&lt;u&gt;Cod. Tipo de embarcación&lt;br/&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="AlDmq4_nDiNZgkX2nY4D-7" vertex="1">
           <mxGeometry y="26" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AlDmq4_nDiNZgkX2nY4D-9" value="Descripción tipo de embarcación&lt;br/&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="AlDmq4_nDiNZgkX2nY4D-7" vertex="1">
@@ -264,98 +264,101 @@
         <mxCell id="AlDmq4_nDiNZgkX2nY4D-10" value="Restricciones por tipo de embarcación&lt;u&gt;&lt;br&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="AlDmq4_nDiNZgkX2nY4D-7" vertex="1">
           <mxGeometry y="90" width="240" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-1" value="Barcos" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-1" value="Barcos" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-250" y="-280" width="250" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-2" value="&lt;u&gt;Cod. Empresa naviera&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-2" value="&lt;u&gt;Cod. Empresa naviera&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="unQ9I7xRC5SDcs6OLn1d-1" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-3" value="&lt;u&gt;Cod. Barco&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-3" value="&lt;u&gt;Cod. Barco&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="unQ9I7xRC5SDcs6OLn1d-1" vertex="1">
           <mxGeometry y="60" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-4" value="Nombre de la empresa naviera&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-4" value="Nombre de la empresa naviera&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="unQ9I7xRC5SDcs6OLn1d-1" vertex="1">
           <mxGeometry y="90" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-5" value="Domicilio de la empresa naviera&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-5" value="Domicilio de la empresa naviera&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="unQ9I7xRC5SDcs6OLn1d-1" vertex="1">
           <mxGeometry y="120" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-6" value="Nombre del barco&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-6" value="Nombre del barco&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="unQ9I7xRC5SDcs6OLn1d-1" vertex="1">
           <mxGeometry y="150" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-7" value="Cod. País&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-7" value="Cod. País&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="unQ9I7xRC5SDcs6OLn1d-1" vertex="1">
           <mxGeometry y="180" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-8" value="Nombre del País&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-8" value="Nombre del País&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="unQ9I7xRC5SDcs6OLn1d-1" vertex="1">
           <mxGeometry y="210" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-9" value="Cod. Puerto&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-9" value="Cod. Puerto&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="unQ9I7xRC5SDcs6OLn1d-1" vertex="1">
           <mxGeometry y="240" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-10" value="Nombre del Puerto&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-10" value="Nombre del Puerto&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="unQ9I7xRC5SDcs6OLn1d-1" vertex="1">
           <mxGeometry y="270" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-11" value="Nº de Embarcadero&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-11" value="Nº de Embarcadero&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="unQ9I7xRC5SDcs6OLn1d-1" vertex="1">
           <mxGeometry y="300" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-12" value="Matrícula del Capitán&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-12" value="Matrícula del Capitán&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="unQ9I7xRC5SDcs6OLn1d-1" vertex="1">
           <mxGeometry y="330" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-13" value="Nombre del Capitán&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-13" value="Nombre del Capitán&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="unQ9I7xRC5SDcs6OLn1d-1" vertex="1">
           <mxGeometry y="360" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-14" value="Nº Doc. de Identidad del Capitán&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-14" value="Nº Doc. de Identidad del Capitán&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="unQ9I7xRC5SDcs6OLn1d-1" vertex="1">
           <mxGeometry y="390" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-15" value="Domicilio de residencia del Capitán&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-15" value="Domicilio de residencia del Capitán&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="unQ9I7xRC5SDcs6OLn1d-1" vertex="1">
           <mxGeometry y="420" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-16" value="Cod. Tipo de embarcación&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-16" value="Cod. Tipo de embarcación&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="unQ9I7xRC5SDcs6OLn1d-1" vertex="1">
           <mxGeometry y="450" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-17" value="Descripción tipo de embarcación&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-17" value="Descripción tipo de embarcación&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="unQ9I7xRC5SDcs6OLn1d-1" vertex="1">
           <mxGeometry y="480" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-18" value="Restricciones por tipo de embarcación&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-18" value="Restricciones por tipo de embarcación&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="unQ9I7xRC5SDcs6OLn1d-1" vertex="1">
           <mxGeometry y="510" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-19" value="PRIMERA FORMA NORMAL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-19" value="PRIMERA FORMA NORMAL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="50" y="-310" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-21" value="Tripulación" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-21" value="Tripulación" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="65" y="-280" width="200" height="236" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-22" value="&lt;u&gt;Cod. Empresa naviera&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-21">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-22" value="&lt;u&gt;Cod. Empresa naviera&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="unQ9I7xRC5SDcs6OLn1d-21" vertex="1">
           <mxGeometry y="26" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-23" value="&lt;u&gt;Cod. Barco&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-21">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-23" value="&lt;u&gt;Cod. Barco&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="unQ9I7xRC5SDcs6OLn1d-21" vertex="1">
           <mxGeometry y="56" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-24" value="&lt;u&gt;Nº de legajo de tripulante&lt;br/&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-21">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-24" value="&lt;u&gt;Nº de legajo de tripulante&lt;br/&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="unQ9I7xRC5SDcs6OLn1d-21" vertex="1">
           <mxGeometry y="86" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-25" value="Nombre del tripulante&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-21">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-25" value="Nombre del tripulante&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="unQ9I7xRC5SDcs6OLn1d-21" vertex="1">
           <mxGeometry y="116" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-26" value="Nº Doc. de Identidad del tripulante&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-21">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-26" value="Nº Doc. de Identidad del tripulante&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="unQ9I7xRC5SDcs6OLn1d-21" vertex="1">
           <mxGeometry y="146" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-27" value="Domicilio del tripulante&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-21">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-27" value="Domicilio del tripulante&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="unQ9I7xRC5SDcs6OLn1d-21" vertex="1">
           <mxGeometry y="176" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-28" value="Fecha de inicio de actividad&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-21">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-28" value="Fecha de inicio de actividad&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="unQ9I7xRC5SDcs6OLn1d-21" vertex="1">
           <mxGeometry y="206" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-29" value="Cursos de especialización realizados" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-280" width="245" height="116" as="geometry" />
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-29" value="Cursos de especialización realizados" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="310" y="-280" width="245" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-30" value="&lt;u&gt;Cod. Empresa naviera&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-29">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-30" value="&lt;u&gt;Cod. Empresa naviera&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="unQ9I7xRC5SDcs6OLn1d-29" vertex="1">
           <mxGeometry y="26" width="245" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-31" value="&lt;u&gt;Cod. Barco&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-29">
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-31" value="&lt;u&gt;Cod. Barco&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="unQ9I7xRC5SDcs6OLn1d-29" vertex="1">
           <mxGeometry y="56" width="245" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unQ9I7xRC5SDcs6OLn1d-32" value="&lt;u&gt;Nº de legajo de tripulante&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-29">
-          <mxGeometry y="86" width="245" height="30" as="geometry" />
+        <mxCell id="unQ9I7xRC5SDcs6OLn1d-32" value="&lt;u&gt;Nº de legajo de tripulante&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="unQ9I7xRC5SDcs6OLn1d-29" vertex="1">
+          <mxGeometry y="86" width="245" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Daa7CFDR9RvzDddN8BcC-2" value="Curso de espcialización" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="unQ9I7xRC5SDcs6OLn1d-29">
+          <mxGeometry y="120" width="245" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
